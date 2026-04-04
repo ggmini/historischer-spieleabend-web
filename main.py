@@ -22,9 +22,9 @@ def generate_html_from_topic(topic: Topic) -> str:
     out += f"<h2>{topic.Name()}</h2>\n"
     if topic.Date() != '':
         out += f"<p>Datum: {topic.Date()}</p>\n"
-    out += f"<p>Moderator: {topic.Moderator()}</p>\n"
+    out += f"<p class='mod'>Moderator*in: {topic.Moderator()}</p>\n"
     for game in topic.Games(): #TOOD: get flag
-        out += f"<p><a href='{game.Link()}'>{game.Name()}</a>, {game.Developer()}, {game.Plattform()}, ({game.Year()})</p>\n"
+        out += f"<p><a href='{game.Link()}'><i>{game.Name()}</i></a>, {game.Developer()}, {game.Plattform()} {game.Year()}.</p>\n"
     out += "</div>\n"
     return out
 
@@ -55,19 +55,21 @@ def main():
         print(f"Error: No topic with id {nextTopicId} found.")
         return
     
-    content = ""
-    
+    content = ""    
     content += "<h2>Nächster Termin</h2>\n"
-    
     content += generate_html_from_topic(nextTopic)
 
     content += "<h2>Offene Themen</h2>\n"
+    content += "<div class='collection'>"
     for topic in openTopics:
         content += generate_html_from_topic(topic)
+    content += "</div>\n"
     
     content += "<h2>Vergangene Themen</h2>\n"
+    content += "<div class='collection'>"
     for topic in pastTopics:
         content += generate_html_from_topic(topic)
+    content += "</div>\n"
     
     with open("index.html", 'r') as file:
         html1 = file.read()
