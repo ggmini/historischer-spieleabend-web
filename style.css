@@ -1,0 +1,8 @@
+.topic {
+    display: flex;
+    align: center;
+    border-color: gray;
+    border-radius: 1em;
+    border-style: solid;
+    border-width: 1px;
+}
