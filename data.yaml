@@ -10,7 +10,7 @@
       developer: 'Konami'
       publisher: 'Konami'
       country: 'Japan'
-      plattform: 'psx'
+      plattform: 'PSX'
       link: ''
     - !Game
       name: 'Thief II: The Metal Age'
@@ -18,7 +18,7 @@
       developer: 'Looking Glass Studios'
       publisher: 'Eidos Interactive'
       country: 'USA'
-      plattform: 'pc'
+      plattform: 'Windows'
       link: ''
     - !Game
       name: 'Hitman 2: Silent Assassin'
@@ -26,7 +26,7 @@
       developer: 'IO Interactive'
       publisher: 'Eidos Interactive'
       country: 'Denmark'
-      plattform: 'pc'
+      plattform: 'Windows'
       link: ''
     - !Game
       name: 'Splinter Cell: Chaos Theory'
@@ -34,7 +34,7 @@
       developer: 'Ubisoft Montreal'
       publisher: 'Ubisoft'
       country: 'France'
-      plattform: 'pc'
+      plattform: 'Windows'
       link: ''
     - !Game
       name: 'Dishonored'
@@ -42,7 +42,7 @@
       developer: 'Arkane Studios'
       publisher: 'Bethesda Softworks'
       country: 'France'
-      plattform: 'pc'
+      plattform: 'Windows'
       link: ''
 
 - !Topic
@@ -54,10 +54,42 @@
     - !Game
       name: 'Rayman'
       year: 1995
-      developer: 'Ubisoft Pictures'
+      developer: 'Ubi Pictures'
+      publisher: 'Ubi Soft'
+      country: 'France'
+      plattform: 'PSX'
+      link: ''
+    - !Game
+      name: 'Rayman Revolution'
+      year: 2000
+      developer: 'Ubi Pictures & Ubi Soft Annecy'
+      publisher: 'Ubi Soft'
+      country: 'France'
+      plattform: 'PS2'
+      link: ''
+    - !Game
+      name: 'Rayman M'
+      year: 2001
+      developer: 'Ubi Pictures'
+      publisher: 'Ubi Soft'
+      country: 'France'
+      plattform: 'PS2'
+      link: ''
+    - !Game
+      name: 'Rayman 3: Hoodlum Havoc'
+      year: 2003
+      developer: 'Ubi Soft Paris'
+      publisher: 'Ubi Soft'
+      country: 'France'
+      plattform: 'PS2'
+      link: ''
+    - !Game
+      name: 'Rayman Legends'
+      year: 2013
+      developer: 'Ubisoft Montpellier'
       publisher: 'Ubisoft'
       country: 'France'
-      plattform: 'psx'
+      plattform: 'PS3'
       link: ''
 
 - !Topic
@@ -72,5 +104,39 @@
       developer: 'Capcom Production Studio 4'
       publisher: 'Capcom'
       country: 'Japan'
-      plattform: 'ps2'
+      plattform: 'PS2'
       link: ''
+    - !Game
+      name: 'Devil May Cry 2'
+      year: 2003
+      developer: 'Capcom Production Studio 1'
+      publisher: 'Capcom'
+      country: 'Japan'
+      plattform: 'PS2'
+      link: ''
+    - !Game
+      name: "Devil May Cry 3: Dante's Awakening: Special Edition"
+      year: 2005
+      developer: 'Capcom Production Studio 1'
+      publisher: 'Capcom'
+      country: 'Japan'
+      plattform: 'PS2'
+      link: ''
+    - !Game
+      name: 'DmC: Devil May Cry'
+      year: 2013
+      developer: 'Ninja Theory'
+      publisher: 'Capcom'
+      country: 'UK'
+      plattform: 'Windows'
+      link: ''
+    - !Game
+      name: 'Devil May Cry 5'
+      year: 2019
+      developer: 'Capcom'
+      publisher: 'Capcom'
+      country: 'Japan'
+      plattform: 'Windows'
+      link: ''
+
+
