@@ -2,7 +2,7 @@
   id: '1'
   name: '3D Stealth Games'
   moderator: 'Greg'
-  date: ''
+  date: '09-04-2026'
   games:
     - !Game
       name: 'Metal Gear Solid'
@@ -11,7 +11,7 @@
       publisher: 'Konami'
       country: 'Japan'
       plattform: 'PSX'
-      link: ''
+      link: 'https://en.wikipedia.org/wiki/Metal_Gear_Solid_(1998_video_game)'
     - !Game
       name: 'Thief II: The Metal Age'
       year: 2000
@@ -19,7 +19,7 @@
       publisher: 'Eidos Interactive'
       country: 'USA'
       plattform: 'Windows'
-      link: ''
+      link: 'https://en.wikipedia.org/wiki/Thief_II'
     - !Game
       name: 'Hitman 2: Silent Assassin'
       year: 2002
@@ -27,7 +27,7 @@
       publisher: 'Eidos Interactive'
       country: 'Denmark'
       plattform: 'Windows'
-      link: ''
+      link: 'https://en.wikipedia.org/wiki/Hitman_2:_Silent_Assassin'
     - !Game
       name: 'Splinter Cell: Chaos Theory'
       year: 2005
@@ -35,7 +35,7 @@
       publisher: 'Ubisoft'
       country: 'France'
       plattform: 'Windows'
-      link: ''
+      link: 'https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell:_Chaos_Theory'
     - !Game
       name: 'Dishonored'
       year: 2012
@@ -43,13 +43,13 @@
       publisher: 'Bethesda Softworks'
       country: 'France'
       plattform: 'Windows'
-      link: ''
+      link: 'https://en.wikipedia.org/wiki/Dishonored'
 
 - !Topic
   id: '2'
   name: 'Rayman'
-  date: ''
-  moderator: 'Greg'
+  date: '23-04-2026'
+  moderator: 'Greg & Enrico'
   games:
     - !Game
       name: 'Rayman'
@@ -58,7 +58,7 @@
       publisher: 'Ubi Soft'
       country: 'France'
       plattform: 'PSX'
-      link: ''
+      link: 'https://en.wikipedia.org/wiki/Rayman_(video_game)'
     - !Game
       name: 'Rayman Revolution'
       year: 2000
@@ -66,7 +66,7 @@
       publisher: 'Ubi Soft'
       country: 'France'
       plattform: 'PS2'
-      link: ''
+      link: 'https://en.wikipedia.org/wiki/Rayman_2:_The_Great_Escape'
     - !Game
       name: 'Rayman M'
       year: 2001
@@ -74,7 +74,7 @@
       publisher: 'Ubi Soft'
       country: 'France'
       plattform: 'PS2'
-      link: ''
+      link: 'https://en.wikipedia.org/wiki/Rayman_M'
     - !Game
       name: 'Rayman 3: Hoodlum Havoc'
       year: 2003
@@ -82,7 +82,7 @@
       publisher: 'Ubi Soft'
       country: 'France'
       plattform: 'PS2'
-      link: ''
+      link: 'https://en.wikipedia.org/wiki/Rayman_3:_Hoodlum_Havoc'
     - !Game
       name: 'Rayman Legends'
       year: 2013
@@ -90,7 +90,7 @@
       publisher: 'Ubisoft'
       country: 'France'
       plattform: 'PS3'
-      link: ''
+      link: 'https://en.wikipedia.org/wiki/Rayman_Legends'
 
 - !Topic
   id: '3'
@@ -105,7 +105,7 @@
       publisher: 'Capcom'
       country: 'Japan'
       plattform: 'PS2'
-      link: ''
+      link: 'https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)'
     - !Game
       name: 'Devil May Cry 2'
       year: 2003
@@ -113,7 +113,7 @@
       publisher: 'Capcom'
       country: 'Japan'
       plattform: 'PS2'
-      link: ''
+      link: 'https://en.wikipedia.org/wiki/Devil_May_Cry_2'
     - !Game
       name: "Devil May Cry 3: Dante's Awakening: Special Edition"
       year: 2005
@@ -121,7 +121,7 @@
       publisher: 'Capcom'
       country: 'Japan'
       plattform: 'PS2'
-      link: ''
+      link: 'https://en.wikipedia.org/wiki/Devil_May_Cry_3:_Dante%27s_Awakening'
     - !Game
       name: 'DmC: Devil May Cry'
       year: 2013
@@ -129,7 +129,7 @@
       publisher: 'Capcom'
       country: 'UK'
       plattform: 'Windows'
-      link: ''
+      link: 'https://en.wikipedia.org/wiki/DmC:_Devil_May_Cry'
     - !Game
       name: 'Devil May Cry 5'
       year: 2019
@@ -137,6 +137,188 @@
       publisher: 'Capcom'
       country: 'Japan'
       plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Devil_May_Cry_5'
+- !Topic
+  id: '4'
+  name: 'Bullet Time'
+  date: ''
+  moderator: 'Greg'
+  games:
+    - !Game
+      name: 'Max Payne'
+      year: 2001
+      developer: 'Remedy Entertainment'
+      publisher: 'Gathering of Developers'
+      country: 'Finland'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Max_Payne_(video_game)'
+    - !Game
+      name: 'F.E.A.R. First Encounter Assault Recon'
+      year: 2005
+      developer: 'Monolith Productions'
+      publisher: 'Vivendi Universal Games'
+      country: 'USA'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/F.E.A.R._(video_game)'
+    - !Game
+      name: 'Vanquish'
+      year: 2010
+      developer: 'PlatinumGames'
+      publisher: 'Sega'
+      country: 'Japan'
+      plattform: 'PS3'
+      link: 'https://en.wikipedia.org/wiki/Vanquish_(video_game)'
+    - !Game
+      name: 'Trepang2'
+      year: 2023
+      developer: 'Trepang Studios'
+      publisher: 'Team17'
+      country: 'Canada'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Trepang2'
+    - !Game
+      name: 'TBA'
+      year: 0
+      developer: 'N/A'
+      publisher: 'N/A'
+      country: 'N/A'
+      plattform: 'N/A'
       link: ''
-
-
+- !Topic
+  id: '5'
+  name: '1981'
+  date: ''
+  moderator: ''
+  games:
+    - !Game
+      name: 'Centipede'
+      year: 1981
+      developer: 'Atari, Inc.'
+      publisher: 'Atari, Inc.'
+      country: 'USA'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Centipede_(video_game)'
+    - !Game
+      name: 'Defender'
+      year: 1981
+      developer: 'Williams Electronics'
+      publisher: 'Williams Electronics'
+      country: 'USA'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Defender_(1981_video_game)'
+    - !Game
+      name: 'Donkey Kong'
+      year: 1981
+      developer: 'Nintendo R&D1'
+      publisher: 'Nintendo'
+      country: 'Japan'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Donkey_Kong_(1981_video_game)'
+    - !Game
+      name: 'Frogger'
+      year: 1981
+      developer: 'Konami'
+      publisher: 'Konami/Sega'
+      country: 'Japan'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Frogger'
+    - !Game
+      name: 'Galaga'
+      year: 1981
+      developer: 'Namco'
+      publisher: 'Namco'
+      country: 'Japan'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Galaga'
+    - !Game
+      name: 'Tempest'
+      year: 1981
+      developer: 'Atari, Inc.'
+      publisher: 'Atari, Inc.'
+      country: 'USA'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Tempest_(video_game)'
+    - !Game
+      name: 'Wizardry: Proving Grounds of the Mad Overlord'
+      year: 1981
+      developer: 'Sir-Tech'
+      publisher: 'Sir-Tech'
+      country: 'USA'
+      plattform: 'Apple II'
+      link: 'https://en.wikipedia.org/wiki/Wizardry:_Proving_Grounds_of_the_Mad_Overlord'
+- !Topic
+  id: '6'
+  name: 'Liste A'
+  date: ''
+  moderator: 'Leo'
+  games:
+    - !Game
+      name: 'Red Faction'
+      year: 2001
+      developer: 'Volition'
+      publisher: 'THQ'
+      country: 'USA'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/Red_Faction_(video_game)'
+    - !Game
+      name: 'BloodRayne'
+      year: 2002
+      developer: 'Terminal Reality'
+      publisher: 'Vivendi Games'
+      country: 'USA'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/BloodRayne_(video_game)'
+    - !Game
+      name: 'Quake 4'
+      year: 2001
+      developer: 'id Software'
+      publisher: 'Activision'
+      country: 'USA'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Quake_4'
+    - !Game
+      name: '50 Cent: Bulletproof'
+      year: 2005
+      developer: 'Genuine Games'
+      publisher: 'Vivendi Games'
+      country: 'USA'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/50_Cent:_Bulletproof'
+- !Topic
+  id: '7'
+  name: 'Beschlagnahmt nach §131 StGB'
+  date: ''
+  moderator: 'Leo'
+  games:
+    - !Game
+      name: 'Condemned: Criminal Origins'
+      year: 2005
+      developer: 'Monolith Productions'
+      publisher: 'Sega & Warner Bros.'
+      country: 'USA'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Condemned:_Criminal_Origins'
+    - !Game
+      name: 'Scarface: The World Is Yours'
+      year: 2006
+      developer: 'Radical Entertainment'
+      publisher: 'Vivendi Games'
+      country: 'Canada'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/Scarface:_The_World_Is_Yours'
+    - !Game
+      name: 'Silent Hill: Homecoming'
+      year: 2008
+      developer: 'Double Helix Games'
+      publisher: 'Konami'
+      country: 'USA'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Silent_Hill:_Homecoming'
+    - !Game
+      name: 'Wolfenstein'
+      year: 2009
+      developer: 'Raven Software'
+      publisher: 'Activision'
+      country: 'USA'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Wolfenstein_(2009_video_game)'

@@ -1,9 +1,11 @@
+import datetime
+
 class Topic:
     def __init__(self, name, games, id, date, moderator):
         self.name = name
         self.games = games
         self.id = id
-        self.date = date
+        self.date = datetime.datetime.strptime(date, '%d-%m-%Y') if date != '' else ''
         self.moderator = moderator
     
     def Name(self):

@@ -21,7 +21,8 @@ def generate_html_from_topic(topic: Topic) -> str:
     out = "<div class='topic'>\n"
     out += f"<h2>{topic.Name()}</h2>\n"
     if topic.Date() != '':
-        out += f"<p>Datum: {topic.Date()}</p>\n"
+        d = topic.Date().date()
+        out += f"<p>Datum: { str(d.day).rjust(2, '0')}.{str(d.month).rjust(2, '0')}.{d.year} 18:00</p>\n"
     out += f"<p class='mod'>Moderator*in: {topic.Moderator()}</p>\n"
     for game in topic.Games(): #TOOD: get flag
         out += f"<p><a href='{game.Link()}'><i>{game.Name()}</i></a>, {game.Developer()}, {game.Plattform()} {game.Year()}.</p>\n"
@@ -29,10 +30,10 @@ def generate_html_from_topic(topic: Topic) -> str:
     return out
 
 def main():
-    nextTopicId = '1'
-    nextEveningDate = datetime.datetime(2026, 4, 9, 18, 0)
+    nextTopicId = '2'
+    nextEveningDate = datetime.datetime(2026, 4, 23, 18, 0)
     
-    nextTopic: Topic = Topic(-1, [], -1, -1, -1)
+    nextTopic: Topic = Topic(-1, [], -1, "", -1)
     openTopics = []
     pastTopics = []
     
