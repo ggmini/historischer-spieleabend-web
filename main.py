@@ -1,5 +1,7 @@
 import yaml
 import datetime
+import shutil
+import os
 
 from topic import Topic
 from game import Game
@@ -31,7 +33,6 @@ def generate_html_from_topic(topic: Topic) -> str:
 
 def main():
     nextTopicId = '2'
-    nextEveningDate = datetime.datetime(2026, 4, 23, 18, 0)
     
     nextTopic: Topic = Topic(-1, [], -1, "", -1)
     openTopics = []
@@ -81,5 +82,12 @@ def main():
     with open("output/index.html", 'w') as file:
         file.write(output)
 
+    #Copy css
+    try:
+        os.mkdir("output")
+    except FileExistsError:
+        pass
+    shutil.copy("style.css", "output/style.css")
+    
 if __name__ == "__main__":
     main()

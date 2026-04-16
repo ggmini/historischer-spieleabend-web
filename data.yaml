@@ -176,14 +176,6 @@
       country: 'Canada'
       plattform: 'Windows'
       link: 'https://en.wikipedia.org/wiki/Trepang2'
-    - !Game
-      name: 'TBA'
-      year: 0
-      developer: 'N/A'
-      publisher: 'N/A'
-      country: 'N/A'
-      plattform: 'N/A'
-      link: ''
 - !Topic
   id: '5'
   name: '1981'
