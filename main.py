@@ -77,17 +77,19 @@ def main():
         html1 = file.read()
     with open("index.html.2", 'r') as file:
         html2 = file.read()
-    
-    output = html1 + content + html2
-    with open("output/index.html", 'w') as file:
-        file.write(output)
 
-    #Copy css
+    #Make output dir
     try:
         os.mkdir("output")
     except FileExistsError:
         pass
+    #Copy CSS
     shutil.copy("style.css", "output/style.css")
+    
+    #Create html
+    output = html1 + content + html2
+    with open("output/index.html", 'w') as file:
+        file.write(output)
     
 if __name__ == "__main__":
     main()
