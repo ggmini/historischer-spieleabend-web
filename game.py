@@ -4,6 +4,10 @@ class Game:
         self.developer = developer
         self.publisher = publisher
         self.year = year
+        if country is None:
+            country = ""
+        elif country == False:
+            country = "NO"
         self.country = country
         self.plattform = plattform
         self.link = link
