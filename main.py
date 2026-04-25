@@ -26,8 +26,12 @@ def generate_html_from_topic(topic: Topic) -> str:
         d = topic.Date().date()
         out += f"<p>Datum: { str(d.day).rjust(2, '0')}.{str(d.month).rjust(2, '0')}.{d.year} 18:00</p>\n"
     out += f"<p class='mod'>Moderator*in: {topic.Moderator()}</p>\n"
-    for game in topic.Games(): #TOOD: get flag
-        out += f"<p><a href='{game.Link()}'><i>{game.Name()}</i></a>, {game.Developer()}, {game.Plattform()} {game.Year()}.</p>\n"
+    for game in topic.Games():
+        country_code = game.Country()
+        country_html = ""
+        if country_code != "":
+            out = f'<span class="fi fi-{country_code}"/>' 
+        out += f"<p>{country_html}<a href='{game.Link()}'><i>{game.Name()}</i></a>, {game.Developer()}, {game.Plattform()} {game.Year()}.</p>\n"
     out += "</div>\n"
     return out
 
