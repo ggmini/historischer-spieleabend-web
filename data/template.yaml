@@ -1,0 +1,14 @@
+- !Topic
+  id: ''
+  name: ''
+  date: ''
+  moderator: ''
+  games:
+    - !Game
+      name: ''
+      year: 2026
+      developer: ''
+      publisher: ''
+      country: ''
+      plattform: ''
+      link: 'https://en.wikipedia.org/wiki/'
