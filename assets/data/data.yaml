@@ -165,7 +165,7 @@
       year: 2007
       developer: 'Midway Studios'
       publisher: 'Midway Games'
-      country: 'USA'
+      country: 'US'
       plattform: 'Windows'
       link: 'https://en.wikipedia.org/wiki/Stranglehold_(video_game)'
     - !Game
@@ -235,7 +235,7 @@
       year: 1981
       developer: 'Atari, Inc.'
       publisher: 'Atari, Inc.'
-      country: 'USA'
+      country: 'US'
       plattform: 'Arcade'
       link: 'https://en.wikipedia.org/wiki/Tempest_(video_game)'
     - !Game
