@@ -187,8 +187,8 @@
 - !Topic
   id: '5'
   name: '1981'
-  date: ''
-  moderator: ''
+  date: '14-05-2026'
+  moderator: 'Enrico'
   games:
     - !Game
       name: 'Centipede'
