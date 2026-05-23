@@ -325,7 +325,7 @@
 - !Topic
   id: '8'
   name: 'How Naughty Dog Grew Up'
-  date: ''
+  date: '28-05-2026'
   moderator: 'Greg'
   games:
     - !Game
