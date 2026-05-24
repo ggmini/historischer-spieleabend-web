@@ -345,13 +345,13 @@
       plattform: 'PS2'
       link: 'https://en.wikipedia.org/wiki/Jak_II'
     - !Game
-      name: "Uncharted: Drake's Fortune"
-      year: 2007
+      name: "Uncharted 2: Among Thieves"
+      year: 2009
       developer: 'Naughty Dog'
       publisher: 'Sony Computer Entertainment'
       country: 'US'
       plattform: 'PS3'
-      link: 'https://en.wikipedia.org/wiki/Uncharted:_Drake%27s_Fortune'
+      link: 'https://en.wikipedia.org/wiki/Uncharted_2:_Among_Thieves'
     - !Game
       name: 'The Last of Us'
       year: 2013
