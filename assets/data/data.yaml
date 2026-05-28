@@ -161,6 +161,14 @@
       plattform: 'Windows'
       link: 'https://en.wikipedia.org/wiki/F.E.A.R._(video_game)'
     - !Game
+      name: 'Stranglehold'
+      year: 2007
+      developer: 'Midway Studios'
+      publisher: 'Midway Games'
+      country: 'US'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Stranglehold_(video_game)'
+    - !Game
       name: 'Vanquish'
       year: 2010
       developer: 'PlatinumGames'
@@ -227,7 +235,7 @@
       year: 1981
       developer: 'Atari, Inc.'
       publisher: 'Atari, Inc.'
-      country: 'USA'
+      country: 'US'
       plattform: 'Arcade'
       link: 'https://en.wikipedia.org/wiki/Tempest_(video_game)'
     - !Game
@@ -314,3 +322,41 @@
       country: 'US'
       plattform: 'Windows'
       link: 'https://en.wikipedia.org/wiki/Wolfenstein_(2009_video_game)'
+- !Topic
+  id: '8'
+  name: 'How Naughty Dog Grew Up'
+  date: ''
+  moderator: 'Greg'
+  games:
+    - !Game
+      name: 'Crash Bandicoot'
+      year: 1996
+      developer: 'Naughty Dog'
+      publisher: 'Sony Computer Entertainment'
+      country: 'US'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Crash_Bandicoot_(video_game)'
+    - !Game
+      name: 'Jak II'
+      year: 2003
+      developer: 'Naughty Dog'
+      publisher: 'Sony Computer Entertainment'
+      country: 'US'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/Jak_II'
+    - !Game
+      name: "Uncharted: Drake's Fortune"
+      year: 2007
+      developer: 'Naughty Dog'
+      publisher: 'Sony Computer Entertainment'
+      country: 'US'
+      plattform: 'PS3'
+      link: 'https://en.wikipedia.org/wiki/Uncharted:_Drake%27s_Fortune'
+    - !Game
+      name: 'The Last of Us'
+      year: 2013
+      developer: 'Naughty Dog'
+      publisher: 'Sony Computer Entertainment'
+      country: 'US'
+      plattform: 'PS3'
+      link: 'https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)'

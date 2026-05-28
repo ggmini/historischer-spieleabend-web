@@ -42,10 +42,11 @@ def main():
     openTopics = []
     pastTopics = []
     
-    print("Compiler is running...")
-    data = yaml.load(open("data.yaml", 'rb'), Loader=get_loader())
+    print("Building website...")
+    data = yaml.load(open("assets/data/data.yaml", 'rb'), Loader=get_loader())
     print("Data loaded successfully!")
     
+    print("Processing data...")
     for topic in data:
         print(f"Topic {topic.Id()}: {topic.Name()}, Date: {topic.Date()}")
     
@@ -76,10 +77,11 @@ def main():
     for topic in pastTopics:
         content += generate_html_from_topic(topic)
     content += "</div>\n"
-    
-    with open("index.html", 'r') as file:
+
+    print("Generating output...")    
+    with open("assets/index.html", 'r') as file:
         html1 = file.read()
-    with open("index.html.2", 'r') as file:
+    with open("assets/index.html.2", 'r') as file:
         html2 = file.read()
 
     #Make output dir
@@ -88,12 +90,13 @@ def main():
     except FileExistsError:
         pass
     #Copy CSS
-    shutil.copy("style.css", "output/style.css")
+    shutil.copy("assets/style.css", "output/style.css")
     
     #Create html
     output = html1 + content + html2
     with open("output/index.html", 'w') as file:
         file.write(output)
+    print("Website built successfully!")
     
 if __name__ == "__main__":
     main()
