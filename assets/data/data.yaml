@@ -1,98 +1,4 @@
 - !Topic
-  id: '1'
-  name: '3D Stealth Games'
-  moderator: 'Greg'
-  date: '09-04-2026'
-  games:
-    - !Game
-      name: 'Metal Gear Solid'
-      year: 1998
-      developer: 'Konami'
-      publisher: 'Konami'
-      country: 'JP'
-      plattform: 'PSX'
-      link: 'https://en.wikipedia.org/wiki/Metal_Gear_Solid_(1998_video_game)'
-    - !Game
-      name: 'Thief II: The Metal Age'
-      year: 2000
-      developer: 'Looking Glass Studios'
-      publisher: 'Eidos Interactive'
-      country: 'US'
-      plattform: 'Windows'
-      link: 'https://en.wikipedia.org/wiki/Thief_II'
-    - !Game
-      name: 'Hitman 2: Silent Assassin'
-      year: 2002
-      developer: 'IO Interactive'
-      publisher: 'Eidos Interactive'
-      country: 'DK'
-      plattform: 'Windows'
-      link: 'https://en.wikipedia.org/wiki/Hitman_2:_Silent_Assassin'
-    - !Game
-      name: 'Splinter Cell: Chaos Theory'
-      year: 2005
-      developer: 'Ubisoft Montreal'
-      publisher: 'Ubisoft'
-      country: 'FR'
-      plattform: 'Windows'
-      link: 'https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell:_Chaos_Theory'
-    - !Game
-      name: 'Dishonored'
-      year: 2012
-      developer: 'Arkane Studios'
-      publisher: 'Bethesda Softworks'
-      country: 'FR'
-      plattform: 'Windows'
-      link: 'https://en.wikipedia.org/wiki/Dishonored'
-
-- !Topic
-  id: '2'
-  name: 'Rayman'
-  date: '30-04-2026'
-  moderator: 'Greg & Enrico'
-  games:
-    - !Game
-      name: 'Rayman'
-      year: 1995
-      developer: 'Ubi Pictures'
-      publisher: 'Ubi Soft'
-      country: 'FR'
-      plattform: 'PSX'
-      link: 'https://en.wikipedia.org/wiki/Rayman_(video_game)'
-    - !Game
-      name: 'Rayman Revolution'
-      year: 2000
-      developer: 'Ubi Pictures & Ubi Soft Annecy'
-      publisher: 'Ubi Soft'
-      country: 'FR'
-      plattform: 'PS2'
-      link: 'https://en.wikipedia.org/wiki/Rayman_2:_The_Great_Escape'
-    - !Game
-      name: 'Rayman M'
-      year: 2001
-      developer: 'Ubi Pictures'
-      publisher: 'Ubi Soft'
-      country: 'FR'
-      plattform: 'PS2'
-      link: 'https://en.wikipedia.org/wiki/Rayman_M'
-    - !Game
-      name: 'Rayman 3: Hoodlum Havoc'
-      year: 2003
-      developer: 'Ubi Soft Paris'
-      publisher: 'Ubi Soft'
-      country: 'FR'
-      plattform: 'PS2'
-      link: 'https://en.wikipedia.org/wiki/Rayman_3:_Hoodlum_Havoc'
-    - !Game
-      name: 'Rayman Legends'
-      year: 2013
-      developer: 'Ubisoft Montpellier'
-      publisher: 'Ubisoft'
-      country: 'FR'
-      plattform: 'PS3'
-      link: 'https://en.wikipedia.org/wiki/Rayman_Legends'
-
-- !Topic
   id: '3'
   name: 'Devil May Cry'
   date: ''
@@ -166,7 +72,7 @@
       developer: 'Midway Studios'
       publisher: 'Midway Games'
       country: 'US'
-      plattform: 'Windows'
+      plattform: 'PS3'
       link: 'https://en.wikipedia.org/wiki/Stranglehold_(video_game)'
     - !Game
       name: 'Vanquish'
@@ -185,72 +91,10 @@
       plattform: 'Windows'
       link: 'https://en.wikipedia.org/wiki/Trepang2'
 - !Topic
-  id: '5'
-  name: '1981'
-  date: '14-05-2026'
-  moderator: 'Enrico'
-  games:
-    - !Game
-      name: 'Centipede'
-      year: 1981
-      developer: 'Atari, Inc.'
-      publisher: 'Atari, Inc.'
-      country: 'US'
-      plattform: 'Arcade'
-      link: 'https://en.wikipedia.org/wiki/Centipede_(video_game)'
-    - !Game
-      name: 'Defender'
-      year: 1981
-      developer: 'Williams Electronics'
-      publisher: 'Williams Electronics'
-      country: 'US'
-      plattform: 'Arcade'
-      link: 'https://en.wikipedia.org/wiki/Defender_(1981_video_game)'
-    - !Game
-      name: 'Donkey Kong'
-      year: 1981
-      developer: 'Nintendo R&D1'
-      publisher: 'Nintendo'
-      country: 'JP'
-      plattform: 'Arcade'
-      link: 'https://en.wikipedia.org/wiki/Donkey_Kong_(1981_video_game)'
-    - !Game
-      name: 'Frogger'
-      year: 1981
-      developer: 'Konami'
-      publisher: 'Konami/Sega'
-      country: 'JP'
-      plattform: 'Arcade'
-      link: 'https://en.wikipedia.org/wiki/Frogger'
-    - !Game
-      name: 'Galaga'
-      year: 1981
-      developer: 'Namco'
-      publisher: 'Namco'
-      country: 'JP'
-      plattform: 'Arcade'
-      link: 'https://en.wikipedia.org/wiki/Galaga'
-    - !Game
-      name: 'Tempest'
-      year: 1981
-      developer: 'Atari, Inc.'
-      publisher: 'Atari, Inc.'
-      country: 'US'
-      plattform: 'Arcade'
-      link: 'https://en.wikipedia.org/wiki/Tempest_(video_game)'
-    - !Game
-      name: 'Wizardry: Proving Grounds of the Mad Overlord'
-      year: 1981
-      developer: 'Sir-Tech'
-      publisher: 'Sir-Tech'
-      country: 'US'
-      plattform: 'Apple II'
-      link: 'https://en.wikipedia.org/wiki/Wizardry:_Proving_Grounds_of_the_Mad_Overlord'
-- !Topic
   id: '6'
   name: 'Liste A'
   date: ''
-  moderator: 'Leo'
+  moderator: 'Enrico (/Leo)'
   games:
     - !Game
       name: 'Red Faction'
@@ -322,41 +166,5 @@
       country: 'US'
       plattform: 'Windows'
       link: 'https://en.wikipedia.org/wiki/Wolfenstein_(2009_video_game)'
-- !Topic
-  id: '8'
-  name: 'How Naughty Dog Grew Up'
-  date: '28-05-2026'
-  moderator: 'Greg'
-  games:
-    - !Game
-      name: 'Crash Bandicoot'
-      year: 1996
-      developer: 'Naughty Dog'
-      publisher: 'Sony Computer Entertainment'
-      country: 'US'
-      plattform: 'PS1'
-      link: 'https://en.wikipedia.org/wiki/Crash_Bandicoot_(video_game)'
-    - !Game
-      name: 'Jak II'
-      year: 2003
-      developer: 'Naughty Dog'
-      publisher: 'Sony Computer Entertainment'
-      country: 'US'
-      plattform: 'PS2'
-      link: 'https://en.wikipedia.org/wiki/Jak_II'
-    - !Game
-      name: "Uncharted 2: Among Thieves"
-      year: 2009
-      developer: 'Naughty Dog'
-      publisher: 'Sony Computer Entertainment'
-      country: 'US'
-      plattform: 'PS3'
-      link: 'https://en.wikipedia.org/wiki/Uncharted_2:_Among_Thieves'
-    - !Game
-      name: 'The Last of Us'
-      year: 2013
-      developer: 'Naughty Dog'
-      publisher: 'Sony Computer Entertainment'
-      country: 'US'
-      plattform: 'PS3'
-      link: 'https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)'
+
+# next id: 9
