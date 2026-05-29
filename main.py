@@ -36,7 +36,7 @@ def generate_html_from_topic(topic: Topic) -> str:
     return out
 
 def main():
-    nextTopicId = '2'
+    nextTopicId = '6'
     
     nextTopic: Topic = Topic(-1, [], -1, "", -1)
     openTopics = []
@@ -44,11 +44,14 @@ def main():
     
     print("Building website...")
     data = yaml.load(open("assets/data/data.yaml", 'rb'), Loader=get_loader())
+    data_past = yaml.load(open("assets/data/data_past.yaml", 'rb'), Loader=get_loader())
     print("Data loaded successfully!")
     
     print("Processing data...")
     for topic in data:
         print(f"Topic {topic.Id()}: {topic.Name()}, Date: {topic.Date()}")
+    for topic in data_past:
+        print(f"Past Topic {topic.Id()}: {topic.Name()}, Date: {topic.Date()}")
     
     for topic in data:
         if topic.Id() == nextTopicId:
@@ -57,7 +60,9 @@ def main():
             openTopics.append(topic)
         else:
             pastTopics.append(topic)
-    
+    for topic in data_past:
+        pastTopics.append(topic)
+
     if nextTopic.Id() == -1:
         print(f"Error: No topic with id {nextTopicId} found.")
         return
