@@ -63,6 +63,8 @@ def main():
     for topic in data_past:
         pastTopics.append(topic)
 
+    pastTopics.sort(key=lambda t: t.Date(), reverse=True)
+
     if nextTopic.Id() == -1:
         print(f"Error: No topic with id {nextTopicId} found.")
         return
