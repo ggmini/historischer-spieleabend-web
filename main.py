@@ -43,8 +43,10 @@ def main():
     pastTopics = []
     
     print("Building website...")
+    print("Loading data...")
     data = yaml.load(open("assets/data/data.yaml", 'rb'), Loader=get_loader())
     data_past = yaml.load(open("assets/data/data_past.yaml", 'rb'), Loader=get_loader())
+    data_draft = yaml.load(open("assets/data/data_draft.yaml", 'rb'), Loader=get_loader())
     print("Data loaded successfully!")
     
     print("Processing data...")
@@ -52,6 +54,8 @@ def main():
         print(f"Topic {topic.Id()}: {topic.Name()}, Date: {topic.Date()}")
     for topic in data_past:
         print(f"Past Topic {topic.Id()}: {topic.Name()}, Date: {topic.Date()}")
+    for topic in data_draft:
+        print(f"Draft Topic {topic.Id()}: {topic.Name()}, Date: {topic.Date()}")
     
     for topic in data:
         if topic.Id() == nextTopicId:
@@ -77,6 +81,12 @@ def main():
         content += generate_html_from_topic(topic)
     content += "</div>\n"
     
+    content += "<h2>Unfertige Themen</h2>\n"
+    content += "<div class='collection'>"
+    for topic in data_draft:
+        content += generate_html_from_topic(topic)
+    content += "</div>\n"
+
     content += "<h2>Vergangene Themen</h2>\n"
     content += "<div class='collection'>"
     for topic in pastTopics:
