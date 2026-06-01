@@ -83,7 +83,7 @@ def main():
         content += generate_html_from_topic(topic)
     content += "</div>\n"
     
-    content += "<h2>Unfertige Themen</h2>\n"
+    content += "<h2>Unvollständige Themen</h2>\n"
     content += "<div class='collection'>"
     for topic in data_draft:
         content += generate_html_from_topic(topic)
