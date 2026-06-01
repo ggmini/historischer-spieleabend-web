@@ -1,0 +1,214 @@
+- !Topic
+  id: ''
+  name: 'Rusty Lake'
+  date: ''
+  moderator: 'Kay'
+  games:
+    - !Game
+      name: 'The Past Within'
+      year: 2022
+      developer: 'Rusty Lake'
+      publisher: 'Rusty Lake'
+      country: 'NL'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/The_Past_Within'
+
+- !Topic
+  id: ''
+  name: '☾.✴˚˖⁺✦Girl Games⋆˚✿˖°'
+  date: ''
+  moderator: 'Elli'
+  games:
+    - !Game
+      name: 'Barbie Fashion Designer'
+      year: 1996
+      developer: 'Digital Domain'
+      publisher: 'Mattel Media'
+      country: 'US'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Barbie_Fashion_Designer'
+
+- !Topic
+  id: ''
+  name: 'Antigravity Racers'
+  date: ''
+  moderator: 'Greg'
+  games:
+    - !Game
+      name: 'F-Zero'
+      year: 1990
+      developer: 'Nintendo EAD'
+      publisher: 'Nintendo'
+      country: 'JP'
+      plattform: 'SNES'
+      link: 'https://en.wikipedia.org/wiki/F-Zero_(video_game)'
+    - !Game
+      name: 'WipEout 2097'
+      year: 1996
+      developer: 'Psygnosis'
+      publisher: 'Psygnosis'
+      country: 'GB'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Wipeout_2097'
+    - !Game
+      name: 'Redout'
+      year: 2016
+      developer: '34BigThings'
+      publisher: '34BigThings'
+      country: 'IT'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Redout_(video_game)'
+    - !Game
+      name: 'BallisticNG'
+      year: 2018
+      developer: 'Neognosis'
+      publisher: 'Neognosis'
+      country: 'GB'
+      plattform: 'Windows'
+      link: 'https://ballisticng.miraheze.org/wiki/About_BallisticNG'
+
+- !Topic
+  id: ''
+  name: 'Destruction Racers'
+  date: ''
+  moderator: 'Greg'
+  games:
+    - !Game
+      name: 'Destruction Derby'
+      year: 1995
+      developer: 'Reflections Interactive'
+      publisher: 'Psygnosis'
+      country: 'GB'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Destruction_Derby'
+    - !Game
+      name: 'Burnout 3: Takedown'
+      year: 2004
+      developer: 'Criterion Games'
+      publisher: 'Electronic Arts'
+      country: 'GB'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/Burnout_3:_Takedown'
+    - !Game
+      name: 'FlatOut 2'
+      year: 2006
+      developer: 'Bugbear Entertainment'
+      publisher: 'Empire Interactive'
+      country: 'FI'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/FlatOut_2'
+    - !Game
+      name: 'Wreckfest'
+      year: 2018
+      developer: 'Bugbear Entertainment'
+      publisher: 'THQ Nordic'
+      country: 'FI'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Wreckfest'
+
+- !Topic
+  id: ''
+  name: 'Cars and Guns'
+  date: ''
+  moderator: 'Greg'
+  games:
+    - !Game
+      name: 'Twisted Metal: Black'
+      year: 2001
+      developer: 'Incognito Entertainment'
+      publisher: 'Sony Computer Entertainment'
+      country: 'US'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/Twisted_Metal:_Black'
+    - !Game
+      name: 'Crashday'
+      year: 2006
+      developer: 'Moonbyte Games'
+      publisher: 'Atari'
+      country: 'DE'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Crashday'
+    - !Game
+      name: 'Jak X: Combat Racing'
+      year: 2005
+      developer: 'Naughty Dog'
+      publisher: 'Sony Computer Entertainment'
+      country: 'US'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/Jak_X:_Combat_Racing'
+
+- !Topic
+  id: ''
+  name: 'The Golden Age of Arcade Racers'
+  date: ''
+  moderator: 'Greg'
+  games:
+    - !Game
+      name: 'Need for Speed: Most Wanted'
+      year : 2005
+      developer: 'Black Box'
+      publisher: 'Electronic Arts'
+      country: 'CA'
+      plattform: 'Xbox 360'
+      link: 'https://en.wikipedia.org/wiki/Need_for_Speed:_Most_Wanted_(2005_video_game)'
+
+- !Topic
+  id: ''
+  name: 'The Downfall of Arcade Racers'
+  date: ''
+  moderator: 'Greg'
+  games:
+    - !Game
+      name: 'Split/Second'
+      year : 2010
+      developer: 'Black Rock Studio'
+      publisher: 'Disney Interactive Studios'
+      country: 'GB'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Split:_Second'
+    - !Game
+      name: 'Blur'
+      year : 2010
+      developer: 'Bizarre Creations'
+      publisher: 'Activision'
+      country: 'GB'
+      plattform: 'Xbox 360'
+      link: 'https://en.wikipedia.org/wiki/Blur_(video_game)'
+    - !Game
+      name: 'Driver: San Francisco'
+      year : 2011
+      developer: 'Ubisoft Reflections'
+      publisher: 'Ubisoft'
+      country: 'GB'
+      plattform: 'Xbox 360'
+      link: 'https://en.wikipedia.org/wiki/Driver:_San_Francisco'
+
+- !Topic
+  id: ''
+  name: 'The Worst Games of All Time'
+  date: ''
+  moderator: ''
+  games: []
+
+- !Topic
+  id: ''
+  name: 'Arena Shooters'
+  date: ''
+  moderator: ''
+  games:
+    - !Game
+      name: 'Quake III Arena'
+      year : 1999
+      developer: 'id Software'
+      publisher: 'Activision'
+      country: 'US'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Quake_III_Arena'
+    - !Game
+      name: 'Unreal Tournament 2004'
+      year : 2004
+      developer: 'Epic Games'
+      publisher: 'Atari'
+      country: 'US'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Unreal_Tournament_2004'

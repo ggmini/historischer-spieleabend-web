@@ -114,7 +114,7 @@
       link: 'https://en.wikipedia.org/wiki/BloodRayne_(video_game)'
     - !Game
       name: 'Quake 4'
-      year: 2001
+      year: 2005
       developer: 'id Software'
       publisher: 'Activision'
       country: 'US'
@@ -166,5 +166,142 @@
       country: 'US'
       plattform: 'Windows'
       link: 'https://en.wikipedia.org/wiki/Wolfenstein_(2009_video_game)'
-
-# next id: 9
+- !Topic
+  id: '9'
+  name: 'Ace Combat'
+  date: ''
+  moderator: 'Greg'
+  games:
+    - !Game
+      name: 'Air Combat'
+      year: 1995
+      developer: 'Namco'
+      publisher: 'Namco'
+      country: 'JP'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Air_Combat'
+    - !Game
+      name: 'Ace Combat 2'
+      year: 1997
+      developer: 'Namco'
+      publisher: 'Namco'
+      country: 'JP'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Ace_Combat_2'
+    - !Game
+      name: 'Ace Combat 3: Electrosphere'
+      year: 1999
+      developer: 'Namco'
+      publisher: 'Namco'
+      country: 'JP'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Ace_Combat_3:_Electrosphere'
+    - !Game
+      name: 'Ace Combat 04: Shattered Skies'
+      year: 2001
+      developer: 'Namco'
+      publisher: 'Namco'
+      country: 'JP'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/Ace_Combat_04:_Shattered_Skies'
+- !Topic
+  id: '10'
+  name: 'Mecha Games: Gen1'
+  date: ''
+  moderator: 'Greg'
+  games:
+  - !Game
+      name: 'Front Mission'
+      year: 1995
+      developer: 'G-Craft'
+      publisher: 'Square'
+      country: 'JP'
+      plattform: 'SNES'
+      link: 'https://en.wikipedia.org/wiki/Front_Mission_(video_game)'
+  - !Game
+      name: 'MechWarrior 2: 31st Century Combat'
+      year: 1995
+      developer: 'Activision'
+      publisher: 'Activision'
+      country: 'US'
+      plattform: 'DOS'
+      link: 'https://en.wikipedia.org/wiki/MechWarrior_2:_31st_Century_Combat'
+  - !Game
+      name: 'Armored Core'
+      year: 1997
+      developer: 'FromSoftware'
+      publisher: 'FromSoftware'
+      country: 'JP'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Armoered_Core_(video_game)'
+  - !Game
+      name: 'Heavy Gear'
+      year: 1997
+      developer: 'Activision'
+      publisher: 'Activision'
+      country: 'US'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Heavy_Gear_(video_game)'
+  - !Game
+      name: 'Gundam: Battle Assault'
+      year: 1998
+      developer: 'Natsume'
+      publisher: 'Bandai'
+      country: 'JP'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Gundam:_Battle_Assault_(video_game)'
+- !Topic
+  id: '11'
+  name: 'Lore Dump: Kingdom Hearts'
+  date: ''
+  moderator: 'Tina'
+  games:
+    - !Game
+      name: 'Kingdom Hearts'
+      year: 2002
+      developer: 'Square'
+      publisher: 'Square'
+      country: 'JP'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)'
+    - !Game
+      name: 'Kingdom Hearts: Chain of Memories'
+      year: 2004
+      developer: 'Square Enix'
+      publisher: 'Square Enix'
+      country: 'JP'
+      plattform: 'GBA'
+      link: 'https://en.wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories'
+    - !Game
+      name: 'Kingdom Hearts II'
+      year: 2005
+      developer: 'Square Enix Product Development Division 1'
+      publisher: 'Square Enix'
+      country: 'JP'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_II'
+    - !Game
+      name: 'Kingdom Hearts Birth by Sleep'
+      year: 2010
+      developer: 'Square Enix Product Development Division 5'
+      publisher: 'Square Enix'
+      country: 'JP'
+      plattform: 'PSP'
+      link: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep'
+    - !Game
+      name: 'Kingdom Hearts 3D: Dream Drop Distance'
+      year: 2012
+      developer: 'Square Enix 1st Production Department'
+      publisher: 'Square Enix'
+      country: 'JP'
+      plattform: '3DS'
+      link: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_3D:_Dream_Drop_Distance'
+    - !Game
+      name: 'Kingdom Hearts III'
+      year: 2019
+      developer: 'Square Enix Business Division 3'
+      publisher: 'Square Enix'
+      country: 'JP'
+      plattform: ''
+      link: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_III'
+# next id: 12
