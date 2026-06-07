@@ -73,6 +73,10 @@ def main():
         print(f"Error: No topic with id {nextTopicId} found.")
         return
     
+    if nextTopic.Date() == '':
+        print(f"Error: Next topic with id {nextTopicId} has no date.")
+        return
+
     content = ""    
     content += "<h2>Nächster Termin</h2>\n"
     content += generate_html_from_topic(nextTopic)
