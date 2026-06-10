@@ -30,45 +30,6 @@
 
 - !Topic
   id: ''
-  name: 'Antigravity Racers'
-  date: ''
-  moderator: 'Greg'
-  games:
-    - !Game
-      name: 'F-Zero'
-      year: 1990
-      developer: 'Nintendo EAD'
-      publisher: 'Nintendo'
-      country: 'JP'
-      plattform: 'SNES'
-      link: 'https://en.wikipedia.org/wiki/F-Zero_(video_game)'
-    - !Game
-      name: 'WipEout 2097'
-      year: 1996
-      developer: 'Psygnosis'
-      publisher: 'Psygnosis'
-      country: 'GB'
-      plattform: 'PS1'
-      link: 'https://en.wikipedia.org/wiki/Wipeout_2097'
-    - !Game
-      name: 'Redout'
-      year: 2016
-      developer: '34BigThings'
-      publisher: '34BigThings'
-      country: 'IT'
-      plattform: 'Windows'
-      link: 'https://en.wikipedia.org/wiki/Redout_(video_game)'
-    - !Game
-      name: 'BallisticNG'
-      year: 2018
-      developer: 'Neognosis'
-      publisher: 'Neognosis'
-      country: 'GB'
-      plattform: 'Windows'
-      link: 'https://ballisticng.miraheze.org/wiki/About_BallisticNG'
-
-- !Topic
-  id: ''
   name: 'Destruction Racers'
   date: ''
   moderator: 'Greg'
@@ -139,21 +100,6 @@
 
 - !Topic
   id: ''
-  name: 'The Golden Age of Arcade Racers'
-  date: ''
-  moderator: 'Greg'
-  games:
-    - !Game
-      name: 'Need for Speed: Most Wanted'
-      year : 2005
-      developer: 'Black Box'
-      publisher: 'Electronic Arts'
-      country: 'CA'
-      plattform: 'Xbox 360'
-      link: 'https://en.wikipedia.org/wiki/Need_for_Speed:_Most_Wanted_(2005_video_game)'
-
-- !Topic
-  id: ''
   name: 'The Downfall of Arcade Racers'
   date: ''
   moderator: 'Greg'
@@ -182,13 +128,37 @@
       country: 'GB'
       plattform: 'Xbox 360'
       link: 'https://en.wikipedia.org/wiki/Driver:_San_Francisco'
+    - !Game
+      name: 'Test Drive Unlimited 2'
+      year: 2011
+      developer: 'Eden Games'
+      publisher: 'Atari'
+      country: 'FR'
+      plattform: 'Xbox 360'
+      link: 'https://en.wikipedia.org/wiki/Test_Drive_Unlimited_2'
 
 - !Topic
   id: ''
   name: 'The Worst Games of All Time'
   date: ''
   moderator: ''
-  games: []
+  games:
+  - !Game
+    name: 'E.T. the Extra-Terrestrial'
+    year : 1982
+    developer: 'Atari, Inc.'
+    publisher: 'Atari, Inc.'
+    country: 'US'
+    plattform: 'Atari 2600'
+    link: 'https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial_(video_game)'
+  - !Game
+    name: 'FlatOut 3: Chaos & Destruction'
+    year: 2011
+    developer: 'Team6 Game Studios'
+    publisher: 'Strategy First'
+    country: 'NL'
+    plattform: 'Windows'
+    link: 'https://en.wikipedia.org/wiki/FlatOut_3:_Chaos_%26_Destruction'
 
 - !Topic
   id: ''

@@ -304,4 +304,96 @@
       country: 'JP'
       plattform: 'PS1'
       link: 'https://en.wikipedia.org/wiki/Gundam:_Battle_Assault_(video_game)'
-# next id: 12
+- !Topic
+  id: '12'
+  name: 'The Golden Age of Arcade Racers'
+  date: ''
+  moderator: 'Greg'
+  games:
+    - !Game
+      name: 'Ridge Racer Type 4'
+      year: 1998
+      developer: 'Namco'
+      publisher: 'Namco'
+      country: 'JP'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Ridge_Racer_(video_game)'
+    - !Game
+      name: 'Metropolis Street Racer'
+      year: 2000
+      developer: 'Bizarre Creations'
+      publisher: 'Sega'
+      country: 'GB'
+      plattform: 'Dreamcast'
+      link: 'https://en.wikipedia.org/wiki/Metropolis_Street_Racer'
+    - !Game
+      name: 'Midnight Club 3: DUB Edition'
+      year: 2005
+      developer: 'Rockstar San Diego'
+      publisher: 'Rockstar Games'
+      country: 'US'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/Midnight_Club_3:_DUB_Edition'
+    - !Game
+      name: 'Need for Speed: Most Wanted'
+      year : 2005
+      developer: 'Black Box'
+      publisher: 'Electronic Arts'
+      country: 'CA'
+      plattform: 'Xbox 360'
+      link: 'https://en.wikipedia.org/wiki/Need_for_Speed:_Most_Wanted_(2005_video_game)'
+    - !Game
+      name: 'Colin McRae: DiRT 2'
+      year: 2009
+      developer: 'Codemasters'
+      publisher: 'Codemasters'
+      country: 'GB'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Colin_McRae:_DiRT_2'
+- !Topic
+  id: '13'
+  name: 'Antigravity Racers'
+  date: ''
+  moderator: 'Greg'
+  games:
+    - !Game
+      name: 'F-Zero'
+      year: 1990
+      developer: 'Nintendo EAD'
+      publisher: 'Nintendo'
+      country: 'JP'
+      plattform: 'SNES'
+      link: 'https://en.wikipedia.org/wiki/F-Zero_(video_game)'
+    - !Game
+      name: 'WipEout 2097'
+      year: 1996
+      developer: 'Psygnosis'
+      publisher: 'Psygnosis'
+      country: 'GB'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Wipeout_2097'
+    - !Game
+      name: 'Star Wars Episode I: Racer'
+      year: 1999
+      developer: 'LucasArts'
+      publisher: 'LucasArts'
+      country: 'US'
+      plattform: 'Dreamcast'
+      link: 'https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_Racer'
+    - !Game
+      name: 'F-Zero GX'
+      year: 2003
+      developer: 'Amusement Vision'
+      publisher: 'Nintendo'
+      country: 'JP'
+      plattform: 'GameCube'
+      link: 'https://en.wikipedia.org/wiki/F-Zero_GX'
+    - !Game
+      name: 'Redout'
+      year: 2016
+      developer: '34BigThings'
+      publisher: '34BigThings'
+      country: 'IT'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Redout_(video_game)'
+# next id: 14
