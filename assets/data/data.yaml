@@ -91,44 +91,6 @@
       plattform: 'Windows'
       link: 'https://en.wikipedia.org/wiki/Trepang2'
 - !Topic
-  id: '6'
-  name: 'Liste A'
-  date: '11-06-2026'
-  moderator: 'Enrico & Leo'
-  games:
-    - !Game
-      name: 'Red Faction'
-      year: 2001
-      developer: 'Volition'
-      publisher: 'THQ'
-      country: 'US'
-      plattform: 'PS2'
-      link: 'https://en.wikipedia.org/wiki/Red_Faction_(video_game)'
-    - !Game
-      name: 'BloodRayne'
-      year: 2002
-      developer: 'Terminal Reality'
-      publisher: 'Vivendi Games'
-      country: 'US'
-      plattform: 'PS2'
-      link: 'https://en.wikipedia.org/wiki/BloodRayne_(video_game)'
-    - !Game
-      name: 'Quake 4'
-      year: 2005
-      developer: 'id Software'
-      publisher: 'Activision'
-      country: 'US'
-      plattform: 'Windows'
-      link: 'https://en.wikipedia.org/wiki/Quake_4'
-    - !Game
-      name: '50 Cent: Bulletproof'
-      year: 2005
-      developer: 'Genuine Games'
-      publisher: 'Vivendi Games'
-      country: 'US'
-      plattform: 'PS2'
-      link: 'https://en.wikipedia.org/wiki/50_Cent:_Bulletproof'
-- !Topic
   id: '7'
   name: 'Beschlagnahmt nach §131 StGB'
   date: ''
@@ -223,7 +185,7 @@
 - !Topic
   id: '10'
   name: 'Ace Combat'
-  date: ''
+  date: '25-06-2026'
   moderator: 'Greg'
   games:
     - !Game
