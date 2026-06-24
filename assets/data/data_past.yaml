@@ -228,3 +228,41 @@
       country: 'US'
       plattform: 'PS3'
       link: 'https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)'
+- !Topic
+  id: '10'
+  name: 'Ace Combat'
+  date: '25-06-2026'
+  moderator: 'Greg'
+  games:
+    - !Game
+      name: 'Air Combat'
+      year: 1995
+      developer: 'Namco'
+      publisher: 'Namco'
+      country: 'JP'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Air_Combat'
+    - !Game
+      name: 'Ace Combat 2'
+      year: 1997
+      developer: 'Namco'
+      publisher: 'Namco'
+      country: 'JP'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Ace_Combat_2'
+    - !Game
+      name: 'Ace Combat 3: Electrosphere'
+      year: 1999
+      developer: 'Namco'
+      publisher: 'Namco'
+      country: 'JP'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Ace_Combat_3:_Electrosphere'
+    - !Game
+      name: 'Ace Combat 04: Shattered Skies'
+      year: 2001
+      developer: 'Namco'
+      publisher: 'Namco'
+      country: 'JP'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/Ace_Combat_04:_Shattered_Skies'

@@ -36,7 +36,7 @@ def generate_html_from_topic(topic: Topic) -> str:
     return out
 
 def main():
-    nextTopicId = '10'
+    nextTopicId = '14'
     
     nextTopic: Topic = Topic(-1, [], -1, "", -1)
     openTopics = []
