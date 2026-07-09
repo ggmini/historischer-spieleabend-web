@@ -321,31 +321,9 @@
       plattform: 'Windows'
       link: 'https://en.wikipedia.org/wiki/Redout_(video_game)'
 - !Topic
-  id: '14'
-  name: "Let's Play: Death Stranding"
-  date: '09-07-2026'
-  moderator: 'Jojo'
-  games:
-    - !Game
-      name: 'Death Stranding'
-      year: 2019
-      developer: 'Kojima Productions'
-      publisher: ''
-      country: 'JP'
-      plattform: 'PS4'
-      link: 'https://en.wikipedia.org/wiki/Death_Stranding'
-    - !Game
-      name: 'Death Stranding 2: On the Beach'
-      year: 2025
-      developer: 'Kojima Productions'
-      publisher: 'Sony Interactive Entertainment'
-      country: 'JP'
-      plattform: 'PS5'
-      link: 'https://en.wikipedia.org/wiki/Death_Stranding_2:_On_the_Beach'
-- !Topic
   id: '15'
   name: 'Ace Combat Part 2: Superweapon Boogaloo'
-  date: ''
+  date: '30-07-2026'
   moderator: 'Greg'
   games:
     - !Game
