@@ -335,14 +335,6 @@
       plattform: 'PS2'
       link: 'https://en.wikipedia.org/wiki/Ace_Combat_Zero:_The_Belkan_War'
     - !Game
-      name: 'The Sky Crawlers: Innocent Aces'
-      year: 2008
-      developer: 'Project Aces'
-      publisher: 'Namco Bandai Games'
-      country: 'JP'
-      plattform: 'Wii'
-      link: 'https://en.wikipedia.org/wiki/The_Sky_Crawlers:_Innocent_Aces'
-    - !Game
       name: 'Ace Combat 6: Fires of Liberation'
       year: 2007
       developer: 'Project Aces'
@@ -350,6 +342,14 @@
       country: 'JP'
       plattform: 'Xbox 360'
       link: 'https://en.wikipedia.org/wiki/Ace_Combat_6:_Fires_of_Liberation'
+    - !Game
+      name: 'The Sky Crawlers: Innocent Aces'
+      year: 2008
+      developer: 'Project Aces'
+      publisher: 'Namco Bandai Games'
+      country: 'JP'
+      plattform: 'Wii'
+      link: 'https://en.wikipedia.org/wiki/The_Sky_Crawlers:_Innocent_Aces'
     - !Game
       name: 'Ace Combat: Assault Horizon'
       year: 2011
