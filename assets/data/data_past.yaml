@@ -288,3 +288,41 @@
       country: 'JP'
       plattform: 'PS5'
       link: 'https://en.wikipedia.org/wiki/Death_Stranding_2:_On_the_Beach'
+- !Topic
+  id: '15'
+  name: 'Ace Combat Part 2: Superweapon Boogaloo'
+  date: '30-07-2026'
+  moderator: 'Greg'
+  games:
+    - !Game
+      name: 'Ace Combat Zero: The Belkan War'
+      year: 2006
+      developer: 'Namco'
+      publisher: 'Namco'
+      country: 'JP'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/Ace_Combat_Zero:_The_Belkan_War'
+    - !Game
+      name: 'Ace Combat 6: Fires of Liberation'
+      year: 2007
+      developer: 'Project Aces'
+      publisher: 'Namco Bandai Games'
+      country: 'JP'
+      plattform: 'Xbox 360'
+      link: 'https://en.wikipedia.org/wiki/Ace_Combat_6:_Fires_of_Liberation'
+    - !Game
+      name: 'The Sky Crawlers: Innocent Aces'
+      year: 2008
+      developer: 'Project Aces'
+      publisher: 'Namco Bandai Games'
+      country: 'JP'
+      plattform: 'Wii'
+      link: 'https://en.wikipedia.org/wiki/The_Sky_Crawlers:_Innocent_Aces'
+    - !Game
+      name: 'Ace Combat: Assault Horizon'
+      year: 2011
+      developer: 'Project Aces'
+      publisher: 'Namco Bandai Games'
+      country: 'JP'
+      plattform: 'Xbox 360'
+      link: 'https://en.wikipedia.org/wiki/Ace_Combat:_Assault_Horizon'
