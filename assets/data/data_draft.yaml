@@ -182,3 +182,33 @@
       country: 'US'
       plattform: 'Windows'
       link: 'https://en.wikipedia.org/wiki/Unreal_Tournament_2004'
+- !Topic
+  id: ''
+  name: 'Nicht in Deutschland'
+  date: ''
+  moderator: 'Greg'
+  games:
+    - !Game
+      name: 'Ninja Gaiden II'
+      year: 2008
+      developer: 'Team Ninja'
+      publisher: 'Microsoft Game Studios'
+      country: 'JP'
+      plattform: 'Xbox 360'
+      link: 'https://en.wikipedia.org/wiki/Ninja_Gaiden_II'
+    - !Game
+      name: '50 Cent: Blood on the Sand'
+      year: 2009
+      developer: 'Swordfish Studios'
+      publisher: 'THQ'
+      country: 'GB'
+      plattform: 'Xbox 360'
+      link: 'https://en.wikipedia.org/wiki/50_Cent:_Blood_on_the_Sand'
+    - !Game
+      name: 'Dying Light'
+      year: 2015
+      developer: 'Techland'
+      publisher: 'Techland Publishing'
+      country: 'PL'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Dying_Light'
