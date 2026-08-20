@@ -320,4 +320,50 @@
       country: 'IT'
       plattform: 'Windows'
       link: 'https://en.wikipedia.org/wiki/Redout_(video_game)'
-# next id: 16
+- !Topic
+  id: '16'
+  name: 'Mecha Games: Gen2'
+  date: ''
+  moderator: 'Greg'
+  games:
+    - !Game
+      name: 'Zone of Enders'
+      year: 2001
+      developer: 'Konami Computer Entertainment Japan'
+      publisher: 'Konami'
+      country: 'JP'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/Zone_of_Enders_(video_game)'
+    - !Game
+      name: 'Armored Core 3'
+      year: 2002
+      developer: 'FromSoftware'
+      publisher: 'FromSoftware'
+      country: 'JP'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/Armored_Core_3'
+    - !Game
+      name: 'MechWarrior 4: Mercenaries'
+      year: 2002
+      developer: 'FASA Studio'
+      publisher: 'Microsoft Game Studios'
+      country: 'US'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/MechWarrior_4:_Mercenaries'
+    - !Game
+      name: 'Dynasty Warriors: Gundam'
+      year: 2007
+      developer: 'Omega Force'
+      publisher: 'Namco Bandai Games'
+      country: 'JP'
+      plattform: 'Xbox 360'
+      link: 'https://en.wikipedia.org/wiki/Dynasty_Warriors:_Gundam'
+    - !Game
+      name: 'Armored Core 4'
+      year: 2007
+      developer: 'FromSoftware'
+      publisher: 'FromSoftware'
+      country: 'JP'
+      plattform: 'Xbox 360'
+      link: 'https://en.wikipedia.org/wiki/Armored_Core_4'
+# next id: 17
