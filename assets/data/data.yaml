@@ -369,7 +369,7 @@
 - !Topic
   id: '17'
   name: 'The Essentials 1982'
-  date: ''
+  date: '10-09-2026'
   moderator: 'enr.a'
   games:
     - !Game
