@@ -423,7 +423,7 @@
       year: 2000
       developer: 'tbd'
       publisher: 'tbd'
-      country: 'N/A'
+      country: 'ZZ'
       plattform: 'tbd'
       link: ''
 - !Topic
@@ -437,7 +437,7 @@
       year: 2024
       developer: 'Mossmouth, LLC'
       publisher: 'Mossmouth, LLC'
-      country: 'various'
+      country: 'ZZ'
       plattform: 'PC'
       link: 'https://en.wikipedia.org/wiki/UFO_50'
 
