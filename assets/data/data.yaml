@@ -407,7 +407,7 @@
 - !Topic
   id: '19'
   name: 'Player''s Choice'
-  date: ''
+  date: '24-09-2026'
   moderator: 'tbd'
   games:
     - !Game
