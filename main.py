@@ -113,7 +113,7 @@ def main():
     
     #Create html
     output = html1 + content + html2
-    with open("output/index.html", 'w') as file:
+    with open("output/index.html", 'w', encoding="utf-8") as file:
         file.write(output)
     print("Website built successfully!")
     
