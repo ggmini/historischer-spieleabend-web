@@ -326,3 +326,49 @@
       country: 'JP'
       plattform: 'Xbox 360'
       link: 'https://en.wikipedia.org/wiki/Ace_Combat:_Assault_Horizon'
+- !Topic
+  id: '17'
+  name: 'The Essentials 1982'
+  date: '10-09-2026'
+  moderator: 'enr.a'
+  games:
+    - !Game
+      name: 'Joust'
+      year: 1982
+      developer: 'Williams Electronics'
+      publisher: 'Williams Electronics'
+      country: 'US'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Joust_(video_game)'
+    - !Game
+      name: 'Ms- Pac-Man'
+      year: 1982
+      developer: 'General Computer Corporation'
+      publisher: 'Midway Manufacturing'
+      country: 'JP'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Ms._Pac-Man'
+    - !Game
+      name: "Pitfall!"
+      year: 1982
+      developer: 'Activision'
+      publisher: 'Activision'
+      country: 'US'
+      plattform: 'Atari'
+      link: 'https://en.wikipedia.org/wiki/Pitfall!'
+    - !Game
+      name: 'Pole Position'
+      year: 1982
+      developer: 'Namco'
+      publisher: 'Namco'
+      country: 'JP'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Pole_Position'
+    - !Game
+      name: 'Robotron: 2084'
+      year: 1982
+      developer: 'Vid Kidz'
+      publisher: 'Williams Electronics'
+      country: 'US'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Robotron:_2084'
