@@ -406,9 +406,9 @@
       link: 'https://en.wikipedia.org/wiki/Star_Wars_(1983_video_game)'
 - !Topic
   id: '19'
-  name: 'Player''s Choice'
+  name: 'Player''s Choice 2026'
   date: '24-09-2026'
-  moderator: 'tbd'
+  moderator: ''
   games:
     - !Game
       name: 'Tokyo Xtreme Racer 3'
