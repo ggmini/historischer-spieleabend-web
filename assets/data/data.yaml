@@ -411,6 +411,30 @@
   moderator: 'tbd'
   games:
     - !Game
+      name: 'Tokyo Xtreme Racer 3'
+      year: 2003
+      developer: 'Genki'
+      publisher: 'Genki'
+      country: 'JP'
+      plattform: 'PS2'
+      link: 'https://en.wikipedia.org/wiki/Tokyo_Xtreme_Racer_3'
+    - !Game
+      name: 'Wii Sports Resort'
+      year: 2009
+      developer: 'Nintendo EAD'
+      publisher: 'Nintendo'
+      country: 'JP'
+      plattform: 'Wii'
+      link: 'https://en.wikipedia.org/wiki/Wii_Sports_Resort'
+    - !Game
+      name: 'FTL: Faster Than Light'
+      year: 2012
+      developer: 'Subset Games'
+      publisher: 'Subset Games'
+      country: 'US'
+      plattform: 'PC'
+      link: 'https://en.wikipedia.org/wiki/FTL:_Faster_Than_Light'
+    - !Game
       name: 'Ghost of Yōtei'
       year: 2025
       developer: 'Sucker Punch Productions'
@@ -418,14 +442,6 @@
       country: 'US'
       plattform: 'PS5'
       link: 'https://de.wikipedia.org/wiki/Ghost_of_Y%C5%8Dtei'
-    - !Game
-      name: 'more to come!'
-      year: 2000
-      developer: 'tbd'
-      publisher: 'tbd'
-      country: 'ZZ'
-      plattform: 'tbd'
-      link: ''
 - !Topic
   id: '20'
   name: 'Let''s Play: UFO 50'
