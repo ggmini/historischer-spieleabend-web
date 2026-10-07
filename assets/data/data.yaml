@@ -405,44 +405,6 @@
       plattform: 'Arcade'
       link: 'https://en.wikipedia.org/wiki/Star_Wars_(1983_video_game)'
 - !Topic
-  id: '19'
-  name: 'Player''s Choice 2026'
-  date: '24-09-2026'
-  moderator: ''
-  games:
-    - !Game
-      name: 'Tokyo Xtreme Racer 3'
-      year: 2003
-      developer: 'Genki'
-      publisher: 'Genki'
-      country: 'JP'
-      plattform: 'PS2'
-      link: 'https://en.wikipedia.org/wiki/Tokyo_Xtreme_Racer_3'
-    - !Game
-      name: 'Wii Sports Resort'
-      year: 2009
-      developer: 'Nintendo EAD'
-      publisher: 'Nintendo'
-      country: 'JP'
-      plattform: 'Wii'
-      link: 'https://en.wikipedia.org/wiki/Wii_Sports_Resort'
-    - !Game
-      name: 'FTL: Faster Than Light'
-      year: 2012
-      developer: 'Subset Games'
-      publisher: 'Subset Games'
-      country: 'US'
-      plattform: 'PC'
-      link: 'https://en.wikipedia.org/wiki/FTL:_Faster_Than_Light'
-    - !Game
-      name: 'Ghost of Yōtei'
-      year: 2025
-      developer: 'Sucker Punch Productions'
-      publisher: 'Sony Interactive Entertainment'
-      country: 'US'
-      plattform: 'PS5'
-      link: 'https://de.wikipedia.org/wiki/Ghost_of_Y%C5%8Dtei'
-- !Topic
   id: '20'
   name: 'Let''s Play: UFO 50'
   date: ''
@@ -456,5 +418,43 @@
       country: 'ZZ'
       plattform: 'PC'
       link: 'https://en.wikipedia.org/wiki/UFO_50'
+- !Topic
+  id: '21'
+  name: 'Customizable Card Game Role-Playing Games'
+  date: '08-10-2026'
+  moderator: 'Tom'
+  games:
+    - !Game
+      name: 'Pokémon Trading Card Game'
+      year: 1998
+      developer: 'Hudson Soft'
+      publisher: 'Nintendo'
+      country: 'JP'
+      plattform: 'GBC'
+      link: 'https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game_(video_game)'
+    - !Game
+      name: 'Yu-Gi-Oh! Forbidden Memories'
+      year: 1999
+      developer: 'Konami'
+      publisher: 'Konami'
+      country: 'JP'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Forbidden_Memories'
+    - !Game
+      name: 'Magic: The Gathering'
+      year: 2001
+      developer:
+      publisher: 'Sega'
+      country: 'JP'
+      plattform: 'Dreamcast'
+      link: 'https://en.wikipedia.org/wiki/Magic:_The_Gathering_video_games'
+    - !Game
+      name: "Pathfinder Adventures"
+      year: 2017
+      developer: 'Obsidian'
+      publisher: 'Twin Sails Interactive'
+      country: 'US'
+      plattform: 'PC'
+      link: 'https://en.wikipedia.org/wiki/Pathfinder_Roleplaying_Game#Video_games'
 
-# next id: 21
+# next id: 22
