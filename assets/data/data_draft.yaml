@@ -212,3 +212,41 @@
       country: 'PL'
       plattform: 'Windows'
       link: 'https://en.wikipedia.org/wiki/Dying_Light'
+- !Topic
+  id: '21'
+  name: 'Customizable Card Game Role-Playing Games'
+  date: '08-10-2026'
+  moderator: 'Tom'
+  games:
+    - !Game
+      name: 'Pokémon Trading Card Game'
+      year: 1998
+      developer: 'Hudson Soft'
+      publisher: 'Nintendo'
+      country: 'JP'
+      plattform: 'GBC'
+      link: 'https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game_(video_game)'
+    - !Game
+      name: 'Yu-Gi-Oh! Forbidden Memories'
+      year: 1999
+      developer: 'Konami'
+      publisher: 'Konami'
+      country: 'JP'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Forbidden_Memories'
+    - !Game
+      name: 'Magic: The Gathering'
+      year: 2001
+      developer:
+      publisher: 'Sega'
+      country: 'JP'
+      plattform: 'Dreamcast'
+      link: 'https://en.wikipedia.org/wiki/Magic:_The_Gathering_video_games'
+    - !Game
+      name: "Pathfinder Adventures"
+      year: 2017
+      developer: 'Obsidian'
+      publisher: 'Twin Sails Interactive'
+      country: 'US'
+      plattform: 'PC'
+      link: 'https://en.wikipedia.org/wiki/Pathfinder_Roleplaying_Game#Video_games'
