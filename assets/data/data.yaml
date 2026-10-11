@@ -272,7 +272,7 @@
       developer: 'Codemasters'
       publisher: 'Codemasters'
       country: 'GB'
-      plattform: 'Windows'
+      plattform: 'Xbox 360'
       link: 'https://en.wikipedia.org/wiki/Colin_McRae:_DiRT_2'
 - !Topic
   id: '13'
@@ -433,6 +433,14 @@
       plattform: 'Windows'
       link: 'https://en.wikipedia.org/wiki/Zork'
     - !Game
+      name: 'The Legend of Zelda: A Link to the Past'
+      year: 1991
+      developer: 'Nintendo'
+      publisher: 'Nintendo'
+      country: 'JP'
+      plattform: 'SNES'
+      link: 'https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past'
+    - !Game
       name: 'Castlevania: Symphony of the Night'
       year: 1997
       developer: 'Konami'
@@ -456,13 +464,4 @@
       country: 'JP'
       plattform: 'GameCube'
       link: 'https://en.wikipedia.org/wiki/Mario_Party_4'
-    - !Game
-      name: 'Killer7'
-      year: 2005
-      developer: 'Grasshopper Manufacture'
-      publisher: 'Capcom'
-      country: 'JP'
-      plattform: 'GameCube'
-      link: 'https://en.wikipedia.org/wiki/Killer7'
-
 # next id: 23
