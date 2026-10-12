@@ -421,7 +421,7 @@
 - !Topic
   id: '22'
   name: 'Ersti-Abend 2026'
-  date: '22-12-2026'
+  date: '22-10-2026'
   moderator: 'enr.a & Greg'
   games:
     - !Game
