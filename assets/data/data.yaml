@@ -1,7 +1,7 @@
 - !Topic
   id: '3'
   name: 'Devil May Cry'
-  date: ''
+  date: '5-11-2026'
   moderator: 'Greg'
   games:
     - !Game
@@ -418,50 +418,4 @@
       country: 'ZZ'
       plattform: 'PC'
       link: 'https://en.wikipedia.org/wiki/UFO_50'
-- !Topic
-  id: '22'
-  name: 'Ersti-Abend 2026'
-  date: '22-10-2026'
-  moderator: 'enr.a & Greg'
-  games:
-    - !Game
-      name: 'Zork I: The Great Underground Empire'
-      year: 1980
-      developer: 'Infocom'
-      publisher: 'Infocom'
-      country: 'US'
-      plattform: 'Windows'
-      link: 'https://en.wikipedia.org/wiki/Zork'
-    - !Game
-      name: 'The Legend of Zelda: A Link to the Past'
-      year: 1991
-      developer: 'Nintendo'
-      publisher: 'Nintendo'
-      country: 'JP'
-      plattform: 'SNES'
-      link: 'https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past'
-    - !Game
-      name: 'Castlevania: Symphony of the Night'
-      year: 1997
-      developer: 'Konami'
-      publisher: 'Konami'
-      country: 'JP'
-      plattform: 'PS1'
-      link: 'https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night'
-    - !Game
-      name: 'Return to Castle Wolfenstein'
-      year: 2001
-      developer: 'Gray Matter Studios'
-      publisher: 'Activision'
-      country: 'US'
-      plattform: 'PC'
-      link: 'https://en.wikipedia.org/wiki/Return_to_Castle_Wolfenstein'
-    - !Game
-      name: 'Mario Party 4'
-      year: 2002
-      developer: 'Hudson Soft'
-      publisher: 'Nintendo'
-      country: 'JP'
-      plattform: 'GameCube'
-      link: 'https://en.wikipedia.org/wiki/Mario_Party_4'
 # next id: 23
