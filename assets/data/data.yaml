@@ -1,50 +1,4 @@
 - !Topic
-  id: '3'
-  name: 'Devil May Cry'
-  date: '5-11-2026'
-  moderator: 'Greg'
-  games:
-    - !Game
-      name: 'Devil May Cry'
-      year: 2001
-      developer: 'Capcom Production Studio 4'
-      publisher: 'Capcom'
-      country: 'JP'
-      plattform: 'PS2'
-      link: 'https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)'
-    - !Game
-      name: 'Devil May Cry 2'
-      year: 2003
-      developer: 'Capcom Production Studio 1'
-      publisher: 'Capcom'
-      country: 'JP'
-      plattform: 'PS2'
-      link: 'https://en.wikipedia.org/wiki/Devil_May_Cry_2'
-    - !Game
-      name: "Devil May Cry 3: Dante's Awakening: Special Edition"
-      year: 2005
-      developer: 'Capcom Production Studio 1'
-      publisher: 'Capcom'
-      country: 'JP'
-      plattform: 'PS2'
-      link: 'https://en.wikipedia.org/wiki/Devil_May_Cry_3:_Dante%27s_Awakening'
-    - !Game
-      name: 'DmC: Devil May Cry'
-      year: 2013
-      developer: 'Ninja Theory'
-      publisher: 'Capcom'
-      country: 'GB'
-      plattform: 'Windows'
-      link: 'https://en.wikipedia.org/wiki/DmC:_Devil_May_Cry'
-    - !Game
-      name: 'Devil May Cry 5'
-      year: 2019
-      developer: 'Capcom'
-      publisher: 'Capcom'
-      country: 'JP'
-      plattform: 'Windows'
-      link: 'https://en.wikipedia.org/wiki/Devil_May_Cry_5'
-- !Topic
   id: '4'
   name: 'Bullet Time'
   date: ''
@@ -418,4 +372,58 @@
       country: 'ZZ'
       plattform: 'PC'
       link: 'https://en.wikipedia.org/wiki/UFO_50'
-# next id: 23
+- !Topic
+  id: '23'
+  name: 'Resteessen 1982'
+  date: '19-11-2026'
+  moderator: 'enr.a'
+  games:
+    - !Game
+      name: 'Mr. Do!'
+      year: 1982
+      developer: 'Universal'
+      publisher: 'Universal'
+      country: 'JP'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Mr._Do!'
+    - !Game
+      name: 'Microsoft Flight Simulator'
+      year: 1982
+      developer: 'Sublogic'
+      publisher: 'Microsoft'
+      country: 'US'
+      plattform: 'IBM PC'
+      link: 'https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator_(1982_video_game)'
+    - !Game
+      name: 'Bump `n` Jump'
+      year: 1982
+      developer: 'Data East'
+      publisher: 'Data East'
+      country: 'JP'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Bump_%27n%27_Jump'
+    - !Game
+      name: 'Time Pilot'
+      year: 1982
+      developer: 'Konami'
+      publisher: 'Konami'
+      country: 'JP'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Time_Pilot'
+    - !Game
+      name: 'Front Line'
+      year: 1982
+      developer: 'Taito'
+      publisher: 'Taito'
+      country: 'JP'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Front_Line_(video_game)'
+    - !Game
+      name: 'Pengo'
+      year: 1982
+      developer: 'Coreland'
+      publisher: 'Sega'
+      country: 'JP'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Pengo_(video_game)'
+# next id: 24
