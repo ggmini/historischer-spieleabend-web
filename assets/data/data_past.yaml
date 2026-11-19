@@ -578,3 +578,57 @@
       country: 'JP'
       plattform: 'Windows'
       link: 'https://en.wikipedia.org/wiki/Devil_May_Cry_5'
+- !Topic
+  id: '23'
+  name: 'Resteessen 1982'
+  date: '19-11-2026'
+  moderator: 'enr.a'
+  games:
+    - !Game
+      name: 'Mr. Do!'
+      year: 1982
+      developer: 'Universal'
+      publisher: 'Universal'
+      country: 'JP'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Mr._Do!'
+    - !Game
+      name: 'Microsoft Flight Simulator'
+      year: 1982
+      developer: 'Sublogic'
+      publisher: 'Microsoft'
+      country: 'US'
+      plattform: 'IBM PC'
+      link: 'https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator_(1982_video_game)'
+    - !Game
+      name: 'Bump `n` Jump'
+      year: 1982
+      developer: 'Data East'
+      publisher: 'Data East'
+      country: 'JP'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Bump_%27n%27_Jump'
+    - !Game
+      name: 'Time Pilot'
+      year: 1982
+      developer: 'Konami'
+      publisher: 'Konami'
+      country: 'JP'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Time_Pilot'
+    - !Game
+      name: 'Front Line'
+      year: 1982
+      developer: 'Taito'
+      publisher: 'Taito'
+      country: 'JP'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Front_Line_(video_game)'
+    - !Game
+      name: 'Pengo'
+      year: 1982
+      developer: 'Coreland'
+      publisher: 'Sega'
+      country: 'JP'
+      plattform: 'Arcade'
+      link: 'https://en.wikipedia.org/wiki/Pengo_(video_game)'
