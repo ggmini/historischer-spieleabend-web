@@ -267,6 +267,52 @@
       plattform: 'PS2'
       link: 'https://en.wikipedia.org/wiki/Ace_Combat_04:_Shattered_Skies'
 - !Topic
+  id: '11'
+  name: 'Mecha Games: Gen1'
+  date: '20-08-2026'
+  moderator: 'Greg'
+  games:
+  - !Game
+      name: 'Front Mission'
+      year: 1995
+      developer: 'G-Craft'
+      publisher: 'Square'
+      country: 'JP'
+      plattform: 'SNES'
+      link: 'https://en.wikipedia.org/wiki/Front_Mission_(video_game)'
+  - !Game
+      name: 'MechWarrior 2: 31st Century Combat'
+      year: 1995
+      developer: 'Activision'
+      publisher: 'Activision'
+      country: 'US'
+      plattform: 'DOS'
+      link: 'https://en.wikipedia.org/wiki/MechWarrior_2:_31st_Century_Combat'
+  - !Game
+      name: 'Armored Core'
+      year: 1997
+      developer: 'FromSoftware'
+      publisher: 'FromSoftware'
+      country: 'JP'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Armoered_Core_(video_game)'
+  - !Game
+      name: 'Heavy Gear'
+      year: 1997
+      developer: 'Activision'
+      publisher: 'Activision'
+      country: 'US'
+      plattform: 'Windows'
+      link: 'https://en.wikipedia.org/wiki/Heavy_Gear_(video_game)'
+  - !Game
+      name: 'Gundam: Battle Assault'
+      year: 1998
+      developer: 'Natsume'
+      publisher: 'Bandai'
+      country: 'JP'
+      plattform: 'PS1'
+      link: 'https://en.wikipedia.org/wiki/Gundam:_Battle_Assault_(video_game)'
+- !Topic
   id: '14'
   name: "Let's Play: Death Stranding"
   date: '09-07-2026'
